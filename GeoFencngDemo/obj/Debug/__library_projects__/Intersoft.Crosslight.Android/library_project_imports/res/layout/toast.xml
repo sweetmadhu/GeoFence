@@ -1,0 +1,1 @@
+<nine-patch android:src="@drawable/toast_frame_holo" android:dither="true" xmlns:android="http://schemas.android.com/apk/res/android"></nine-patch>

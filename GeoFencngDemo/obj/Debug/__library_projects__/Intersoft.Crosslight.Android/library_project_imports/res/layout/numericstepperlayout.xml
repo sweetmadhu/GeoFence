@@ -1,0 +1,21 @@
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" xmlns:android="http://schemas.android.com/apk/res/android"><!--<Button
+        android:id="@+id/decrease_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:text="-" />
+    <Button
+        android:id="@+id/increase_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:text="+" />
+    <TextView
+        android:id="@+id/numeric_box"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/increase_button"
+        android:layout_toRightOf="@+id/decrease_button"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="0" />--><Button android:id="@+id/increase_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_marginLeft="0dp" android:text="+" /><Button android:id="@+id/decrease_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@+id/increase_button" android:layout_marginRight="0dp" android:text="-" /><TextView android:id="@+id/numeric_box" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@+id/decrease_button" android:layout_centerVertical="true" android:layout_marginRight="9dp" android:gravity="center" android:text="0" /></RelativeLayout>

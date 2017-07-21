@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/singhmad/Downloads/GeoFencngDemo/GeoFencngDemo/obj/Debug/__library_projects__/com.refractored.monodroidtoolkit/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/singhmad/Downloads/GeoFencngDemo/GeoFencngDemo/obj/Debug/__library_projects__/Intersoft.Crosslight.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/singhmad/Downloads/GeoFencngDemo/GeoFencngDemo/obj/Debug/__library_projects__/Intersoft.Crosslight.Services.Location.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/singhmad/Downloads/GeoFencngDemo/GeoFencngDemo/obj/Debug/__library_projects__/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/com.refractored.monodroidtoolkit/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Intersoft.Crosslight.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Intersoft.Crosslight.Services.Location.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/singhmad/Downloads/GeoFencngDemo/GeoFencngDemo/obj/Debug/__library_projects__/com.refractored.monodroidtoolkit.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/singhmad/Downloads/GeoFencngDemo/GeoFencngDemo/obj/Debug/__library_projects__/Intersoft.Crosslight.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/singhmad/Downloads/GeoFencngDemo/GeoFencngDemo/obj/Debug/__library_projects__/Intersoft.Crosslight.Services.Location.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/singhmad/Downloads/GeoFencngDemo/GeoFencngDemo/obj/Debug/__library_projects__/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
